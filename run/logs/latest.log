@@ -1,0 +1,101 @@
+[27Nov2024 11:00:47.703] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 17, --assetsDir, C:\Users\krish\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[27Nov2024 11:00:47.710] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239
+[27Nov2024 11:00:47.714] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[27Nov2024 11:00:47.902] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[27Nov2024 11:00:48.086] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[27Nov2024 11:00:48.287] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[27Nov2024 11:00:48.537] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/krish/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[27Nov2024 11:00:48.944] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: AMD Radeon(TM) Vega 8 Graphics GL version 4.6.13596 Core Profile Forward-Compatible Context 20.10.32 27.20.1032.2, ATI Technologies Inc.
+[27Nov2024 11:00:50.769] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[27Nov2024 11:00:52.135] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\krish\.gradle\caches\forge_gradle\assets, --assetIndex, 17]
+[27Nov2024 11:00:54.580] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties]
+[27Nov2024 11:00:55.361] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/krish/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[27Nov2024 11:00:55.579] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 226 Datafixer optimizations took 1051 milliseconds
+[27Nov2024 11:01:03.879] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/krish/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.0.29_mapped_official_1.21.1/forge-1.21.1-52.0.29_mapped_official_1.21.1.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[27Nov2024 11:01:03.881] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/krish/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.0.29_mapped_official_1.21.1/forge-1.21.1-52.0.29_mapped_official_1.21.1.jar%230!/data/.mcassetsroot' uses unexpected schema
+[27Nov2024 11:01:03.949] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[27Nov2024 11:01:03.983] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[27Nov2024 11:01:04.264] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[27Nov2024 11:01:04.964] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.29, for MC 1.21.1 with MCP 20240808.132146
+[27Nov2024 11:01:04.965] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.29 Initialized
+[27Nov2024 11:01:04.999] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[27Nov2024 11:01:29.376] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [cyberange]
+[27Nov2024 11:01:29.566] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[27Nov2024 11:01:29.780] [Worker-Main-5/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[27Nov2024 11:01:30.283] [Worker-Main-6/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[27Nov2024 11:01:30.355] [Worker-Main-6/INFO] [org.cyberange.cyberange/]: HELLO FROM COMMON SETUP
+[27Nov2024 11:01:30.355] [Worker-Main-6/INFO] [org.cyberange.cyberange/]: DIRT BLOCK >> minecraft:dirt
+[27Nov2024 11:01:30.357] [Worker-Main-6/INFO] [org.cyberange.cyberange/]: DIRT BLOCK >> minecraft:dirt
+[27Nov2024 11:01:30.357] [Worker-Main-6/INFO] [org.cyberange.cyberange/]: The magic number is... 42
+[27Nov2024 11:01:30.358] [Worker-Main-6/INFO] [org.cyberange.cyberange/]: ITEM >> minecraft:iron_ingot
+[27Nov2024 11:01:30.422] [Worker-Main-7/INFO] [org.cyberange.cyberange/]: HELLO FROM CLIENT SETUP
+[27Nov2024 11:01:30.423] [Worker-Main-7/INFO] [org.cyberange.cyberange/]: MINECRAFT NAME >> Dev
+[27Nov2024 11:01:30.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Nov2024 11:01:31.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 52.0.29 Target: 52.0.28
+[27Nov2024 11:01:31.819] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'cyberange:blockstates/example_block.json' missing model for variant: 'cyberange:example_block#powered=true'
+[27Nov2024 11:01:31.819] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'cyberange:blockstates/example_block.json' missing model for variant: 'cyberange:example_block#powered=false'
+[27Nov2024 11:01:31.842] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'cyberange:item/example_block' referenced from: cyberange:item/example_block: java.io.FileNotFoundException: cyberange:models/item/example_block.json
+[27Nov2024 11:01:31.842] [Worker-Main-2/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'cyberange:item/example_item' referenced from: cyberange:item/example_item: java.io.FileNotFoundException: cyberange:models/item/example_item.json
+[27Nov2024 11:01:35.442] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[27Nov2024 11:01:35.442] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[27Nov2024 11:01:35.593] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[27Nov2024 11:01:35.595] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[27Nov2024 11:01:35.847] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[27Nov2024 11:01:36.040] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[27Nov2024 11:01:36.044] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[27Nov2024 11:01:36.049] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[27Nov2024 11:01:36.055] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[27Nov2024 11:01:36.112] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[27Nov2024 11:01:36.114] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[27Nov2024 11:01:36.117] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[27Nov2024 11:01:36.121] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[27Nov2024 11:01:36.448] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[27Nov2024 11:01:36.458] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[27Nov2024 11:01:36.460] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[27Nov2024 11:01:36.463] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[27Nov2024 11:01:36.464] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[27Nov2024 11:01:36.532] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[27Nov2024 11:02:12.583] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[27Nov2024 11:02:15.694] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[27Nov2024 11:02:15.995] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[27Nov2024 11:02:16.896] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[27Nov2024 11:02:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Nov2024 11:02:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Nov2024 11:02:20.603] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Nov2024 11:02:20.603] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Nov2024 11:02:20.603] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Nov2024 11:02:20.921] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Nov2024 11:02:20.922] [Server thread/INFO] [org.cyberange.cyberange/]: HELLO from server starting
+[27Nov2024 11:02:20.943] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1383 ms
+[27Nov2024 11:02:21.177] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[27Nov2024 11:02:21.177] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[27Nov2024 11:02:22.770] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[27Nov2024 11:02:22.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:11329258] logged in with entity id 16 at (-67.32111587276803, 64.0, 88.48977146252894)
+[27Nov2024 11:02:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[27Nov2024 11:02:23.562] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 21 advancements
+[27Nov2024 11:02:24.475] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Nov2024 11:02:24.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Nov2024 11:02:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Nov2024 11:02:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Nov2024 11:03:18.574] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Nov2024 11:03:18.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Nov2024 11:03:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Nov2024 11:03:18.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Nov2024 11:03:49.424] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Nov2024 11:03:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Nov2024 11:03:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Nov2024 11:03:49.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Nov2024 11:03:51.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[27Nov2024 11:03:51.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[27Nov2024 11:03:51.931] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[27Nov2024 11:03:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Nov2024 11:03:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Nov2024 11:03:51.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Nov2024 11:03:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Nov2024 11:03:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Nov2024 11:03:52.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Nov2024 11:03:52.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[27Nov2024 11:03:52.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Nov2024 11:03:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Nov2024 11:03:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Nov2024 11:03:56.839] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
